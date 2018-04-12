@@ -1,2 +1,2 @@
 //Acabar a animação/hitbox
-alarm[1] = 20;
+alarm[1] = 10;
