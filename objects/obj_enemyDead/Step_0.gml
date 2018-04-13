@@ -1,3 +1,6 @@
+//Velocidade do knokback
+//Colisão com as paredes
+
 if (done == 0) {
 	vertical_speed = vertical_speed + grv;
 

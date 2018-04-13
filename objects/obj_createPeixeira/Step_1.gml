@@ -6,4 +6,5 @@ y = obj_player.y;
 
 if (keyboard_check_pressed(ord("F"))){
 	instance_create_layer(x + 15*global.peixeiraOrientation, y, "Bullet", obj_peixeira);
+	//show_debug_message()
 }

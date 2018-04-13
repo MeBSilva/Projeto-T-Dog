@@ -51,6 +51,4 @@ else {
 }
 ///Olhar para esquerda e direita
 if (key_left) image_xscale = -1;
-//if (key_left) obj_peixeiraDamage.image_xscale = -1;
 if (key_right) image_xscale = 1;
-//if (key_right) obj_peixeiraDamage.image_xscale = 1;

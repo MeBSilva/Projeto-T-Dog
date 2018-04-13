@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "e547b1c2-e36a-4f96-8ca8-8b226274f11e",
+            "Value": {
+                "id": "3fd8d22a-9c68-4768-86fa-6af38348b758",
+                "resourcePath": "sprites\\sprBackgroundVentos1\\sprBackgroundVentos1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e8eee9a0-c67c-4f00-9102-b171449bb529",
             "Value": {
                 "id": "5ce77a8f-d1c2-4aec-93cd-70eca673306f",
@@ -412,6 +420,14 @@
                 "id": "1e0354df-4e8e-431c-8535-e420c9e28000",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f8d5be26-8224-4a99-b455-90ecde6a727e",
+            "Value": {
+                "id": "c2a35a4f-7212-44f0-a51f-3f8108ae3bae",
+                "resourcePath": "sprites\\sprBackgroundVentos2\\sprBackgroundVentos2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
