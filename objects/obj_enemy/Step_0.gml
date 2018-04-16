@@ -35,3 +35,45 @@ else {
 }
 //Facing Right and Left
 if(horizontal_speed != 0) image_xscale = sign(horizontal_speed);
+
+//Enemy Collision
+
+if (place_meeting(x,y,obj_player))
+{
+	if (obj_player.y < y-16)
+	{
+	}
+	else
+	{
+		scr_death();
+	}
+}
+
+//Chase
+
+switch (state)
+{
+	case e_state.idle:
+	{
+		horizontal_speed = 0;
+		vertical_speed = (min(7, vertical_speed+0.05));
+		if (distance_to_object(obj_player) < 512) state = e_state.chase;
+		
+	}
+	break;
+	case e_state.chase:
+	{
+		dir = sign(obj_player.x - x);
+		horizontal_speed = dir *3;
+		vertical_speed = (min(7,vertical_speed+0.05));
+		if (distance_to_object(obj_player) > 1000) state = e_state.idle;		
+	}
+	break;
+}
+
+
+
+
+
+
+
