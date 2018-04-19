@@ -1,1 +1,1 @@
-game_restart();
+slide_trans(TRANS_MODE.RESTART);

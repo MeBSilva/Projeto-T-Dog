@@ -1,9 +1,18 @@
 //Get Player Input
-key_left = keyboard_check(ord("A"));
-key_right = keyboard_check(ord("D"));
-key_jump = keyboard_check_pressed(vk_space) or keyboard_check_pressed(ord("W"));
-key_smaller_jump = keyboard_check_released(vk_space) or keyboard_check_released(ord("W"));
-
+if(has_control)
+{
+	key_left = keyboard_check(ord("A"));
+	key_right = keyboard_check(ord("D"));
+	key_jump = keyboard_check_pressed(vk_space) or keyboard_check_pressed(ord("W"));
+	key_smaller_jump = keyboard_check_released(vk_space) or keyboard_check_released(ord("W"));
+}
+else
+{
+	key_left = 0
+	key_right = 0
+	key_jump = 0
+	key_smaller_jump = 0
+}	
 global.peixeiraOrientation = image_xscale;
 
 //Calcular o movimento

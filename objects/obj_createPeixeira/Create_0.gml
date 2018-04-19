@@ -1,0 +1,1 @@
+hitting_rate = 0;

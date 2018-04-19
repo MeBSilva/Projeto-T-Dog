@@ -7,11 +7,11 @@ window_set_cursor(cr_none);
 image_angle = point_direction(x, y, mouse_x, mouse_y);
 
 //Criação do tiro
-firing_delay = firing_delay - 1;
+firing_rate += 1;
 recoil = max(0, recoil - 1);
-if (mouse_check_button_released(mb_left)) and (firing_delay < 0){
+if (mouse_check_button_released(mb_left)) and (firing_rate >= 15){
 		recoil = 4;
-		firing_delay = 5;
+		firing_rate = 0;
 		with (instance_create_layer(x, y, "Bullet", obj_bullet)) {
 			speed = 25;
 			direction = other.image_angle;
