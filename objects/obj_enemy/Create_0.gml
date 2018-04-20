@@ -16,6 +16,3 @@ enum e_state
 }
 
 state = e_state.idle;
-
-
-
