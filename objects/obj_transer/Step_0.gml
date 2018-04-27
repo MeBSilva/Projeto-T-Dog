@@ -37,6 +37,21 @@ if (mode != TRANS_MODE.OFF )
 				game_restart();
 				break;
 			}
+			
+			case TRANS_MODE.RESTARTR:
+			{
+				if (global.checkpointR != 0)
+				{
+					room_goto(global.checkpointR);
+
+				}
+				else
+				{
+					room_restart();
+				}
+				break;
+			}
+				
 		}
 	}				
 }

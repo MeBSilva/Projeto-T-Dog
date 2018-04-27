@@ -5,7 +5,7 @@ x = obj_player.x;
 y = obj_player.y;
 
 hitting_rate += 1;
-if (keyboard_check_pressed(ord("F"))) and (hitting_rate >= 15){
+if (keyboard_check_pressed(vk_space)) and (hitting_rate >= 15){
 	instance_create_layer(x + 15*global.peixeiraOrientation, y, "Bullet", obj_peixeira);
 	hitting_rate = 0;
 }

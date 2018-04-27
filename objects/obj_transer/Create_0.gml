@@ -9,7 +9,8 @@ enum TRANS_MODE
 	NEXT,
 	GOTO,
 	RESTART,
-	INTRO
+	INTRO,
+	RESTARTR
 }
 mode = TRANS_MODE.INTRO;
 percent = 1; //Controla a porcentagem da tela que realizará fade
