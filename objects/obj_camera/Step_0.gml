@@ -16,3 +16,9 @@ y = clamp(y, view_h_half, room_height-view_h_half);
 
 //Update Camera View
 camera_set_view_pos(cam, x-view_w_half, y-view_h_half);
+
+//PARALLAX
+//Tutorial
+if (layer_exists("Background_Trees")){
+	layer_x("Background_Trees", -x/8);
+}

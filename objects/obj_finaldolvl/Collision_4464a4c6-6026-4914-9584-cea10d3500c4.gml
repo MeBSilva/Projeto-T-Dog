@@ -1,7 +1,6 @@
 /// @description Move to next area
 
-with(obj_player)
-{
+with(obj_player){
 	if(has_control)
 	{
 		has_control = false;

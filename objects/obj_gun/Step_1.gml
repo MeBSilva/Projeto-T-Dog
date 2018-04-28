@@ -16,6 +16,7 @@ if (mouse_check_button_released(mb_left)) and (firing_rate >= 15){
 			speed = 25;
 			direction = other.image_angle;
 			image_angle = direction;
+			audio_play_sound(snd_gun, 1, false);
 		}
 }
 

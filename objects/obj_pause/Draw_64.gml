@@ -7,13 +7,13 @@ if (pause) {
 	draw_set_font(fPause);
 	draw_set_color(c_white);
 	draw_set_alpha(1);
-	draw_text((view_wport[0]+50)/2, (view_hport[0] -300)/2, "Jogo Pausado");
+	draw_text((view_wport[0]-300)/2, (view_hport[0] -500)/2, "Jogo Pausado");
 	draw_set_font(fPauseOptions);
 	draw_set_color(c_white);
 	draw_set_alpha(1);
-	draw_text((view_wport[0]+250)/2, (view_hport[0]+100)/2, "Para Continuar, Pressione Esc");
+	draw_text((view_wport[0]-300)/2, (view_hport[0]-100)/2, "Para Continuar, Pressione Esc");
 	draw_set_font(fPauseOptions);
 	draw_set_color(c_white);
 	draw_set_alpha(1);
-	draw_text((view_wport[0]+300)/2, (view_hport[0] + 350)/2, "Para Voltar ao Menu, Pressione M");
+	draw_text((view_wport[0]-250)/2, (view_hport[0] + 150)/2, "Para Voltar ao Menu, Pressione M");
 }

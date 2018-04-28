@@ -37,6 +37,8 @@ if (place_meeting(x,y,obj_player))
 	}
 	else
 	{
+		instance_destroy(self);
+		audio_play_sound(snd_death, 1, false);
 		slide_trans(TRANS_MODE.RESTARTR);
 	}
 }
@@ -61,9 +63,6 @@ switch (state)
 	}
 	break;
 }
-
-
-
 
 
 

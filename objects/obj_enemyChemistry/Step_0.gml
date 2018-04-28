@@ -38,6 +38,8 @@ if (place_meeting(x,y,obj_player))
 	}
 	else
 	{
+		instance_destroy(self);
+		audio_play_sound(snd_death, 1, false);
 		slide_trans(TRANS_MODE.RESTARTR);
 	}
 }
@@ -46,26 +48,23 @@ if (place_meeting(x,y,obj_player))
 
 switch (state)
 {
-	case e_state1.idle:
+	case e_state.idle:
 	{
 		horizontal_speed = 0;
 		vertical_speed = (min(7, vertical_speed+0.05));
-		if (distance_to_object(obj_player) < 512) state = e_state1.chase;
+		if (distance_to_object(obj_player) < 512) and (!collision_line(x, y, obj_player.x, obj_player.y, obj_wall, false, true)) state = e_state.chase;
 		
 	}
 	break;
-	case e_state1.chase:
+	case e_state.chase:
 	{
 		dir = sign(obj_player.x - x);
 		horizontal_speed = dir *3;
 		vertical_speed = (min(7,vertical_speed+0.05));
-		if (distance_to_object(obj_player) > 1000) state = e_state1.idle;		
+		if (distance_to_object(obj_player) > 1000) or (collision_line(x, y, obj_player.x, obj_player.y, obj_wall, false, true)) state = e_state.idle;
 	}
 	break;
 }
-
-
-
 
 
 
