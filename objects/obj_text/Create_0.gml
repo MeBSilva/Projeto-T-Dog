@@ -1,6 +1,6 @@
 spd = 0.5;
 letters = 0;
-text = "topson";
+text = "placeholder, just ignore";
 lenght = string_length(text);
 text_current = "";
 w = 0;
