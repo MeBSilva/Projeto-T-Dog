@@ -1,18 +1,18 @@
 {
-    "id": "122543a3-f4e2-40cb-abb1-23988d07ba66",
+    "id": "cac29673-c477-4a5d-9efb-6902baaa9fec",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_cutscene",
     "eventList": [
         {
-            "id": "4071dad1-b7bf-455f-a6ed-7934d6134066",
+            "id": "0598fbf6-d3ae-49d4-801f-12d52e5444b8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "122543a3-f4e2-40cb-abb1-23988d07ba66"
+            "m_owner": "cac29673-c477-4a5d-9efb-6902baaa9fec"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a396e1dc-5551-452d-b816-bb63ff179b32",
+    "spriteId": "a54a8a1b-cced-49c0-a362-5ecf44d03376",
     "visible": true
 }

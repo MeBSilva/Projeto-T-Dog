@@ -22,3 +22,12 @@ camera_set_view_pos(cam, x-view_w_half, y-view_h_half);
 if (layer_exists("Background_Trees")){
 	layer_x("Background_Trees", -x/8);
 }
+//Geologia
+if (layer_exists("Background_Mining")){
+	layer_x("Background_Mining", -x/16);
+}
+
+//Ventos
+if (layer_exists("Background_TreesV")){
+	layer_x("Background_TreesV", -x/6);
+}

@@ -63,8 +63,6 @@ if (key_left) image_xscale = -1;
 if (key_right) image_xscale = 1;
 
 //Sons
-if (key_jump) audio_play_sound(snd_jump, 2, false); //Pulo 
-
 if (audio_is_playing(snd_death)){ //Morte
 	instance_deactivate_object(obj_enemyBiology);
 	instance_deactivate_object(obj_enemyChemistry);

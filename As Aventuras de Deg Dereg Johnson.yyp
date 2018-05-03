@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "024ff145-50ee-4233-b6b5-6b825738d90e",
+            "Value": {
+                "id": "e18344cc-84eb-440b-9b0a-745a8ca15b06",
+                "resourcePath": "sprites\\spr_menu\\spr_menu.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "02d5aade-c54c-4b69-919e-f1ad027e355b",
             "Value": {
                 "id": "d7872552-0375-434f-9765-f8077a652ef7",
@@ -59,6 +67,22 @@
             "Value": {
                 "id": "60d6a7aa-db1f-4d35-b655-b3b2c8445cad",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0b44cb20-c419-4b64-9369-4f63208fc264",
+            "Value": {
+                "id": "7e5b049a-e0f2-4ce0-8506-c9d0cd52b601",
+                "resourcePath": "sprites\\spr_geologia2\\spr_geologia2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0c3ce0dd-b75a-4100-868f-7afaf4614615",
+            "Value": {
+                "id": "deb71cba-b9f1-405f-9d07-3dd0d9c45774",
+                "resourcePath": "sprites\\spr_ventos2\\spr_ventos2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -95,14 +119,6 @@
             }
         },
         {
-            "Key": "122543a3-f4e2-40cb-abb1-23988d07ba66",
-            "Value": {
-                "id": "261bc58e-6e0f-4ffa-b34e-a0f0efdd8c18",
-                "resourcePath": "objects\\obj_cutscene\\obj_cutscene.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "12796698-5abc-48e7-99e9-16f2fbff8ca8",
             "Value": {
                 "id": "67981a19-b194-49cd-b3c4-a7be098ab197",
@@ -116,14 +132,6 @@
                 "id": "6f8d34b0-a336-4418-93cc-5b222c52b877",
                 "resourcePath": "views\\135ff8be-164c-4d48-a27f-d93e163deac8.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "13d18827-9768-4d53-abd3-4cadcd69ee0d",
-            "Value": {
-                "id": "67b96af0-8d2d-456d-af2a-f514413fc692",
-                "resourcePath": "rooms\\rm_910\\rm_910.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -215,19 +223,11 @@
             }
         },
         {
-            "Key": "2bdcbd7f-3ff0-43ef-80c8-19c85d659727",
+            "Key": "2e148bac-6803-4657-ba4b-fc5bbf9139e5",
             "Value": {
-                "id": "a18b141a-e5f9-4949-9475-6b8ee09d73b4",
-                "resourcePath": "tilesets\\tl_floor\\tl_floor.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
-            "Key": "2ca5febc-ffa2-402a-a994-8053206ce6f0",
-            "Value": {
-                "id": "1000c1d7-77d7-4300-ac8d-da075315db81",
-                "resourcePath": "sounds\\snd_jump\\snd_jump.yy",
-                "resourceType": "GMSound"
+                "id": "42789451-218d-4fb1-9168-ce9cd8c24c32",
+                "resourcePath": "sprites\\spr_tile\\spr_tile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -244,6 +244,22 @@
                 "id": "baa41268-27a2-442d-8fc0-9c9275c682a2",
                 "resourcePath": "options\\ps4\\options_ps4.yy",
                 "resourceType": "GMPS4Options"
+            }
+        },
+        {
+            "Key": "3cfb942f-3575-4b5e-9e69-6deb452bab09",
+            "Value": {
+                "id": "aced4774-fac2-4906-9ba3-a5cc282c0e2c",
+                "resourcePath": "sprites\\spr_geologia4\\spr_geologia4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "41da4b68-e701-4c6a-b3b7-e365235eacb8",
+            "Value": {
+                "id": "d537c455-0449-40b8-b74b-edec8d591ea3",
+                "resourcePath": "rooms\\rm_ventos\\rm_ventos.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -279,14 +295,6 @@
             }
         },
         {
-            "Key": "4c7a2074-e417-487f-a928-586cc62a4c16",
-            "Value": {
-                "id": "1531f036-c22b-47d0-9758-01636755aeec",
-                "resourcePath": "sprites\\spr_mangueiras1\\spr_mangueiras1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "4f44dc4b-1744-49d7-ba47-307a8028dca5",
             "Value": {
                 "id": "9ab9849d-9b55-48b6-aa9c-c98480091546",
@@ -295,10 +303,10 @@
             }
         },
         {
-            "Key": "524550eb-aa0b-4463-83eb-61350b74b7e7",
+            "Key": "53609718-659e-4a6c-81c5-afb45283e078",
             "Value": {
-                "id": "b330a3ee-3816-4cea-8646-a7d26b1750be",
-                "resourcePath": "sprites\\spr_tiles\\spr_tiles.yy",
+                "id": "5e05af59-f95a-4a08-8084-4c9e8c5ada6b",
+                "resourcePath": "sprites\\spr_test\\spr_test.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -316,14 +324,6 @@
                 "id": "db6da061-3043-457e-8781-78f7f199dfa4",
                 "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "598b8cc6-7191-4e7e-90fe-e25166969f0c",
-            "Value": {
-                "id": "0dae4798-3b99-4cdf-b1df-99b3bd8c94ca",
-                "resourcePath": "tilesets\\tl_tiles\\tl_tiles.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
@@ -359,6 +359,22 @@
             }
         },
         {
+            "Key": "6e45180e-c639-4099-901c-04318865ded4",
+            "Value": {
+                "id": "29ec296e-ebfb-41cf-938c-c04c708ee87e",
+                "resourcePath": "rooms\\rm_geologia\\rm_geologia.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "71f2099f-3dcb-4628-a672-c7f5e0df74ea",
+            "Value": {
+                "id": "9bc7c88e-8157-4ee5-884c-049f9e35a492",
+                "resourcePath": "rooms\\rm_credits\\rm_credits.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "72d56ed6-9dbb-4807-891e-2bd8be3cdf37",
             "Value": {
                 "id": "8ac7e53a-67ca-4ac6-8ed3-910098e6b947",
@@ -383,6 +399,14 @@
             }
         },
         {
+            "Key": "76cdd50a-64a9-44c6-879c-18387bbf0422",
+            "Value": {
+                "id": "6fb2fa5b-dc5e-4dd4-9479-d546be3e66be",
+                "resourcePath": "rooms\\rm_cutscene\\rm_cutscene.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "e08b0b48-b1b6-4356-bd23-acdbffa6fc0f",
@@ -391,10 +415,18 @@
             }
         },
         {
-            "Key": "838f68a0-e3cf-460e-bd66-afcd32d28466",
+            "Key": "8066c0fa-c72c-4ccb-a863-5071bfb1a113",
             "Value": {
-                "id": "abf77b90-65aa-4772-97c5-ddacad154fb9",
-                "resourcePath": "sprites\\spr_mangueiras2\\spr_mangueiras2.yy",
+                "id": "c6371526-9de5-4ece-a3a6-b5d1f789b8c7",
+                "resourcePath": "sprites\\spr_geologia3\\spr_geologia3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "83b01ab5-cdd3-47b1-99aa-b17c5cd87b7b",
+            "Value": {
+                "id": "4fbd897e-9ac0-4979-9c08-66dac81f3729",
+                "resourcePath": "sprites\\spr_mangueiras1\\spr_mangueiras1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -404,6 +436,14 @@
                 "id": "f791f801-1acd-4ba7-81d6-a0889d8324d6",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "87b8e0c6-85f8-4f57-8d41-dd685368a4ff",
+            "Value": {
+                "id": "deaa9c1e-8bfe-44a3-9fa7-822167166c14",
+                "resourcePath": "sprites\\spr_geologia1\\spr_geologia1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -431,14 +471,6 @@
             }
         },
         {
-            "Key": "94dbb94c-a6b8-4a39-976a-6fe0936087b8",
-            "Value": {
-                "id": "5827c04f-81df-404d-9d6e-c7f11eb1b11e",
-                "resourcePath": "rooms\\rm_cutscene\\rm_cutscene.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "97bd06a5-08e0-455c-9ff0-08d64533e432",
             "Value": {
                 "id": "b6c8634f-4dbd-40c4-8d05-315d1a344f81",
@@ -447,27 +479,11 @@
             }
         },
         {
-            "Key": "99e11d6b-dde1-48cc-a47a-daf2480de008",
-            "Value": {
-                "id": "ee8b2517-ea64-44a4-bae4-2fd565e40b8a",
-                "resourcePath": "sprites\\spr_mangueiras3\\spr_mangueiras3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a295bfcd-b5b6-4179-b91c-5aa0f43588f9",
             "Value": {
                 "id": "faa000a0-3e2a-42ec-acc7-2eec11eeef2b",
                 "resourcePath": "views\\a295bfcd-b5b6-4179-b91c-5aa0f43588f9.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a396e1dc-5551-452d-b816-bb63ff179b32",
-            "Value": {
-                "id": "8b110cef-026b-44f3-a7ed-1ca6fd9e08ef",
-                "resourcePath": "sprites\\spr_cutscene\\spr_cutscene.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -487,10 +503,18 @@
             }
         },
         {
-            "Key": "a6ab5bcc-2e72-4a4b-9d30-f0ff1e0cddca",
+            "Key": "a4cd9ce8-4ba7-427b-adb3-184ea10600a5",
             "Value": {
-                "id": "a01bc7d1-ab26-49c1-9722-4c8187540866",
-                "resourcePath": "sprites\\spr_menu\\spr_menu.yy",
+                "id": "8633bf3e-5a86-4333-a471-83e17fde497a",
+                "resourcePath": "tilesets\\tl_tiles\\tl_tiles.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "a54a8a1b-cced-49c0-a362-5ecf44d03376",
+            "Value": {
+                "id": "e5a42bbb-f4d3-4534-a486-18e5d6bf6bc0",
+                "resourcePath": "sprites\\spr_cutscene\\spr_cutscene.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -523,6 +547,14 @@
             "Value": {
                 "id": "49aa19a2-6310-445e-8759-0d6dadc3594f",
                 "resourcePath": "rooms\\rm_menu\\rm_menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "af124558-8f22-45cb-a25b-73c2bb9013ba",
+            "Value": {
+                "id": "b5c2b454-f351-4245-88fd-d5ff11562942",
+                "resourcePath": "rooms\\rm_ruVelho\\rm_ruVelho.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -599,6 +631,14 @@
             }
         },
         {
+            "Key": "cac29673-c477-4a5d-9efb-6902baaa9fec",
+            "Value": {
+                "id": "66352928-4317-4444-a694-e50a080ec83b",
+                "resourcePath": "objects\\obj_cutscene\\obj_cutscene.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cb3b92fe-e0be-4e7b-913d-7b935c0787af",
             "Value": {
                 "id": "d5aa13cf-9722-41a8-87d4-4a2cfbe992e0",
@@ -639,11 +679,43 @@
             }
         },
         {
+            "Key": "d5ec160c-a5ac-4f56-bb73-8156fb63c8b1",
+            "Value": {
+                "id": "60a4de96-efe8-46d8-8df7-c8752e5fff6d",
+                "resourcePath": "rooms\\rm_ica\\rm_ica.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d870573e-8e82-46aa-84f2-2d5fc35b12ca",
             "Value": {
                 "id": "408aab41-b7bc-45c0-a3cc-265a13f9859e",
                 "resourcePath": "views\\d870573e-8e82-46aa-84f2-2d5fc35b12ca.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "da37dea6-9c1a-4ab2-9b4b-7b02bba39776",
+            "Value": {
+                "id": "fb4c9ac5-a821-4414-a3ae-84b73b1e4484",
+                "resourcePath": "sprites\\spr_mangueiras2\\spr_mangueiras2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "de2439d9-be69-419a-8289-0995af084bf9",
+            "Value": {
+                "id": "4cd21791-70ac-4762-9753-aa109fcb7756",
+                "resourcePath": "sprites\\spr_ventos3\\spr_ventos3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e22bba70-1855-45cf-b962-14f57a49eef5",
+            "Value": {
+                "id": "5edf5744-d336-4eaf-bbe4-7a0ac57fc59e",
+                "resourcePath": "sprites\\spr_ventos1\\spr_ventos1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -703,6 +775,14 @@
             }
         },
         {
+            "Key": "e97ca2c0-8bcf-4e1e-8d3a-9ebb3e3bf09f",
+            "Value": {
+                "id": "998ff184-46ce-4949-ad9e-80d59c408407",
+                "resourcePath": "rooms\\rm_910\\rm_910.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "eea706f4-fa21-4275-b4ee-f38e4ca334ad",
             "Value": {
                 "id": "bb1ae489-6109-4ef9-a3e7-d568d95ee11c",
@@ -735,19 +815,19 @@
             }
         },
         {
+            "Key": "f600d28e-f944-40fc-a691-871f9d209259",
+            "Value": {
+                "id": "d986bede-749b-49ca-9c43-a9b77995db7f",
+                "resourcePath": "sprites\\spr_mangueiras3\\spr_mangueiras3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f74a11c1-a685-4ae5-908c-5a06ab84abe1",
             "Value": {
                 "id": "5ffe576a-3b66-4318-ba41-be83b4a9849f",
                 "resourcePath": "objects\\obj_peixeira\\obj_peixeira.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f85a9086-6f5a-4350-9159-e84fd0428977",
-            "Value": {
-                "id": "f3cd1e95-e285-48e9-a1dd-0c476ce7de15",
-                "resourcePath": "fonts\\fFases\\fFases.yy",
-                "resourceType": "GMFont"
             }
         },
         {
