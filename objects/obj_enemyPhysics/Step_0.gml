@@ -27,7 +27,7 @@ if (horizontal_speed = 0) sprite_index = spr_enemyPhysics;
 else sprite_index = spr_enemyPhysicsRun;
 
 //Facing Right and Left
-if(horizontal_speed != 0) image_xscale = sign(-horizontal_speed);
+if(horizontal_speed != 0) image_xscale = sign(horizontal_speed);
 
 //Enemy Collision
 if (place_meeting(x,y,obj_player))

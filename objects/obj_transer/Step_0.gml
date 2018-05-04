@@ -40,6 +40,7 @@ if (mode != TRANS_MODE.OFF )
 			
 			case TRANS_MODE.RESTARTR:
 			{
+				obj_lives.morto=true;
 				if (global.checkpointR != 0)
 				{
 					room_goto(global.checkpointR);

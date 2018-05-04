@@ -1,1 +1,1 @@
-target = rm_ventos;
+target = rm_credits;

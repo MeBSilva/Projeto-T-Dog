@@ -21,3 +21,6 @@ menu[0] = "Vai Cholar?";
 
 menu_items = array_length_1d(menu);
 menu_cursor = 2;
+
+//Menu reset check
+global.checkpointR = 0
