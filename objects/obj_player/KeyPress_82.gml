@@ -1,1 +1,1 @@
-slide_trans(TRANS_MODE.RESTART);
+//slide_trans(TRANS_MODE.RESTART);

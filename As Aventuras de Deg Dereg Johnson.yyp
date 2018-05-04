@@ -175,6 +175,22 @@
             }
         },
         {
+            "Key": "1efdfa68-4a2f-4612-abfb-77ca3f059b49",
+            "Value": {
+                "id": "38952535-7edc-4e30-ab48-71f7df671dc1",
+                "resourcePath": "sounds\\snd_mangueiras\\snd_mangueiras.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "219574a0-3463-4fcd-8b28-beda5c95d8fd",
+            "Value": {
+                "id": "5169a4d9-812e-49e3-ab71-ba1b00ab9cf4",
+                "resourcePath": "sprites\\spr_gato910\\spr_gato910.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "227f9c2a-665e-4b90-a1a3-be0230d7d598",
             "Value": {
                 "id": "6f61637f-330e-4d21-9678-be3a544e2d65",
@@ -236,6 +252,14 @@
                 "id": "a7f47856-5cf7-4c8f-8161-f2c3d7cbe54d",
                 "resourcePath": "sprites\\spr_enemyChemistryRun\\spr_enemyChemistryRun.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "29dac72d-d9b2-4ab3-9fdb-db66ff8b8fbb",
+            "Value": {
+                "id": "b98c4db9-69ae-4e05-9eba-3e87f505a9f4",
+                "resourcePath": "objects\\obj_gato910\\obj_gato910.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -407,6 +431,14 @@
             }
         },
         {
+            "Key": "6681168d-4ffc-4750-93a2-0807d0a380b0",
+            "Value": {
+                "id": "225379d8-2544-41cc-bf9a-3cea5184da4c",
+                "resourcePath": "objects\\obj_sound\\obj_sound.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "69e55772-2adf-4d9f-871e-34ea1b5bc105",
             "Value": {
                 "id": "82e8b7f2-bb32-47ce-b80b-7deea02d0e2c",
@@ -471,6 +503,14 @@
             }
         },
         {
+            "Key": "75fcc684-3a22-468e-b518-6caaac593379",
+            "Value": {
+                "id": "16306a18-d647-406f-9c28-28a1b1932468",
+                "resourcePath": "sounds\\snd_menu\\snd_menu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "76cdd50a-64a9-44c6-879c-18387bbf0422",
             "Value": {
                 "id": "6fb2fa5b-dc5e-4dd4-9479-d546be3e66be",
@@ -516,6 +556,14 @@
                 "id": "deaa9c1e-8bfe-44a3-9fa7-822167166c14",
                 "resourcePath": "sprites\\spr_geologia1\\spr_geologia1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8abe6df7-d37c-4400-a7e1-f5003d8ad225",
+            "Value": {
+                "id": "76859c28-792c-4519-9972-b4a494d66249",
+                "resourcePath": "sounds\\snd_geologia\\snd_geologia.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -815,11 +863,35 @@
             }
         },
         {
+            "Key": "df4e5b34-af6e-4c28-a2b8-8b0e80645ea7",
+            "Value": {
+                "id": "9f7b4f53-2dcc-4189-878b-b8fcb990dd0b",
+                "resourcePath": "sounds\\snd_cutscene\\snd_cutscene.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e1b86190-b398-41fd-a537-310caa4c58f4",
+            "Value": {
+                "id": "374f69a3-cbde-4de6-9a00-c4e92ca4788d",
+                "resourcePath": "sounds\\snd_910\\snd_910.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e22bba70-1855-45cf-b962-14f57a49eef5",
             "Value": {
                 "id": "5edf5744-d336-4eaf-bbe4-7a0ac57fc59e",
                 "resourcePath": "sprites\\spr_ventos1\\spr_ventos1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e3063aad-5e57-43c0-832d-37df99c0201f",
+            "Value": {
+                "id": "74e80318-1184-4750-9403-e2181623541b",
+                "resourcePath": "sounds\\snd_credits\\snd_credits.yy",
+                "resourceType": "GMSound"
             }
         },
         {

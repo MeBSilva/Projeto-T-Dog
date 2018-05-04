@@ -16,8 +16,8 @@ menu_committed = -1;
 menu_control = true;
 
 menu[2] = "Iniciar Sofrimento!";
-menu[1] = "Que Ota!";
-menu[0] = "Vai Cholar?";
+menu[1] = "Que Ota?!";
+menu[0] = "Vaaaai Chorar?";
 
 menu_items = array_length_1d(menu);
 menu_cursor = 2;

@@ -1,4 +1,7 @@
 if (pause) {
+	//Debug HUD sob
+	draw_set_halign(fa_center)
+	draw_set_valign(fa_top)
 	//Tela cinza
 	draw_set_color(c_black);
 	draw_set_alpha(0.6);
