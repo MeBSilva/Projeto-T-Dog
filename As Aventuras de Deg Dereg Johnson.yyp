@@ -279,6 +279,22 @@
             }
         },
         {
+            "Key": "2e49cb95-5d9b-4e4e-94a0-8a1ad9972740",
+            "Value": {
+                "id": "709e76fe-6548-4a78-96e1-332c91f2e341",
+                "resourcePath": "objects\\obj_manga\\obj_manga.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "31ced645-e599-4f64-86d2-a27ab956cc1e",
+            "Value": {
+                "id": "a1cc7de5-0edb-4b98-ace6-d409134044fa",
+                "resourcePath": "sprites\\spr_manga\\spr_manga.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "31d5744c-9710-4fb1-8d69-31781dab39d4",
             "Value": {
                 "id": "f3168963-42e9-4c96-bd22-9afdb07994aa",
@@ -932,6 +948,14 @@
                 "id": "3b890704-3930-4468-a0c8-6479686d8238",
                 "resourcePath": "sprites\\spr_enemyPhysicsRun\\spr_enemyPhysicsRun.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e7fc5399-9718-4c6d-b912-01083944e731",
+            "Value": {
+                "id": "6fb81ec9-ae88-46b5-8e64-47c53f6e298e",
+                "resourcePath": "objects\\obj_dropper\\obj_dropper.yy",
+                "resourceType": "GMObject"
             }
         },
         {

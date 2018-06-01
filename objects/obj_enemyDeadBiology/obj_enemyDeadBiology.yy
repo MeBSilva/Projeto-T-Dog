@@ -5,23 +5,23 @@
     "name": "obj_enemyDeadBiology",
     "eventList": [
         {
-            "id": "37d73d29-66dc-4c7b-85c7-93d267b8df0c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "baeafdeb-b5c4-4405-90c1-4f7526d3dbfe"
-        },
-        {
-            "id": "3a872571-8b73-4667-b2c5-5de467f921b3",
+            "id": "92f40611-be46-4bb6-8d87-9f7e8caf3ef9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "baeafdeb-b5c4-4405-90c1-4f7526d3dbfe"
+        },
+        {
+            "id": "8e8d0f8e-4d45-416e-86b9-60e8775cd451",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "baeafdeb-b5c4-4405-90c1-4f7526d3dbfe"
         }
     ],

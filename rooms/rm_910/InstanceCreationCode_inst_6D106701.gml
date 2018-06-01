@@ -1,0 +1,1 @@
+text = "Sou o gato guardiao do 910!\nIrei recuperar suas vidas!"

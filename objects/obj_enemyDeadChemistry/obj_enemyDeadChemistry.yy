@@ -5,23 +5,23 @@
     "name": "obj_enemyDeadChemistry",
     "eventList": [
         {
-            "id": "4ceac35f-bb96-4591-8e56-087dd4eaf5d3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "24a033d3-3b1e-4502-b8c9-b21237668a06"
-        },
-        {
-            "id": "b4e65f64-ca3e-417e-bff7-ae2778ced8cf",
+            "id": "e0c14b20-656f-4008-b56f-3aa6ce045cee",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "24a033d3-3b1e-4502-b8c9-b21237668a06"
+        },
+        {
+            "id": "357c2da6-d42e-44c3-85ab-7f05c50539db",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "24a033d3-3b1e-4502-b8c9-b21237668a06"
         }
     ],

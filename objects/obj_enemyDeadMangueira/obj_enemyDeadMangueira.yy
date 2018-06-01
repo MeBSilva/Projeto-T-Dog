@@ -5,7 +5,7 @@
     "name": "obj_enemyDeadMangueira",
     "eventList": [
         {
-            "id": "81048832-001f-46f4-a88d-3b313c007371",
+            "id": "a71c0979-ab85-475b-a00b-46611bc30ea9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "6ea0bb2c-a182-4a2f-a9f5-36b67ed892dd"
         },
         {
-            "id": "c83fb621-cd8b-4a88-9103-dc8dae2a4a01",
+            "id": "955cbcf1-ea1e-4451-919b-e841b983159e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

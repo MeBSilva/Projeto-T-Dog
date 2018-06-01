@@ -68,12 +68,21 @@ if (audio_is_playing(snd_death)){ //Morte
 	instance_deactivate_object(obj_enemyChemistry);
 	instance_deactivate_object(obj_enemyPhysics);
 	instance_deactivate_object(obj_enemyMangueira);
+	instance_deactivate_object(obj_manga);
 }
 else{
 	instance_activate_object(obj_enemyBiology);
 	instance_activate_object(obj_enemyChemistry);
 	instance_activate_object(obj_enemyPhysics);
 	instance_activate_object(obj_enemyMangueira);
+	instance_activate_object(obj_manga);
+}
+
+//Deletar o Save quando dá game over
+with obj_lives{
+	if (vidas = 0){
+		file_delete(SAVEFILE);	
+	}
 }
 
 
